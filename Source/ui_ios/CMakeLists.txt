@@ -82,7 +82,6 @@ set(OSX_SOURCES
 	main.mm
 	ResolutionFactorSelectorViewController.mm
 	SettingsViewController.mm
-	SwiftSupport.swift
 	VirtualPadButton.mm
 	VirtualPadItem.mm
 	VirtualPadStick.mm
